@@ -11,7 +11,7 @@ int main()
     double vt[N], *p_vt;
     srand(time(NULL));
     p_vt = vt;
-    
+    //Uso la aritmetica de punteros para recorrer el vector
     for (i = 0; i < N; i++)
     {
         *p_vt = 1 + rand() % 100;

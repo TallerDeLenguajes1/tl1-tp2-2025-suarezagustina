@@ -1,0 +1,13 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por que?
+
+    No se puede ver el archivo tp2_1_2.c porque este está en la rama Opcion_2
+
+En VSCode vuelva al "Source Control" ¿Que diferencias nota?
+
+    Se nota la diferencia que muestra los commits que se hicieron en cada rama.
+    Mostrando en un color la rama main y en otro la rama Opcion_2
+
+En VSCode vuelva al "Source Control" vea los cambios ¿Que nota?
+
+    Al hacer el merge, se unen las dos ramas, apareciendo el punto tp2_1_2.c
+    ya que esta siendo agregado en la rama que se hizo el merge, es decir paso a la rama main
